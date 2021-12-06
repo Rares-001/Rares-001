@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Rares-001
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning PHP & SQ
+- 📫 NHL Stenden student
